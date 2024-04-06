@@ -1,6 +1,6 @@
 - <img src="https://github.com/VasoThom/VasoThom/assets/103041468/45ffb5db-1143-4022-8f9e-57a58a1f7c1a"  width="200" height="auto"  align="left" >
  # 👋 Hi, I’m Vaso (Web Developer)   
-   👀 I am interested in __Web Development__   
+   👀 I am interested in Web Development.   
    💞️ I’m looking to collaborate on on Web Dev Projects  
 
  📫 How to reach me :  
